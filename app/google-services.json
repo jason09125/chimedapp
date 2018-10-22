@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "25292613572",
+    "firebase_url": "https://test-18255.firebaseio.com",
+    "project_id": "test-18255",
+    "storage_bucket": "test-18255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25292613572:android:817436b036e9d99d",
+        "android_client_info": {
+          "package_name": "comp.hkbu.edu.hk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25292613572-c3pdof42j9rosvqepi0af6hot2o32nu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0LojjPzb_wTPZ5sKD4eNsZpCKo6vvssM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25292613572:android:0cc247fa5b55fce2",
+        "android_client_info": {
+          "package_name": "hk.edu.hkbu.comp.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25292613572-c3pdof42j9rosvqepi0af6hot2o32nu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0LojjPzb_wTPZ5sKD4eNsZpCKo6vvssM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
